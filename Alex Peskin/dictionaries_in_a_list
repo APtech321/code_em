@@ -1,0 +1,6 @@
+
+from dictionary input *
+classmates = []
+classmates.append(alex,aidan,joe,chris,taix,lilly,alec)
+print classmates
+ 

@@ -1,0 +1,10 @@
+def find_contact_by_first_name(first_name):
+	for contact in contacts: == first_name
+	if contact[0] == first_name:
+	return contact
+	
+	contact = find_contact_by_first_name("John")
+	
+	print 
+	print"Contact lookup of 'John' using our custom finder"
+	print contact
